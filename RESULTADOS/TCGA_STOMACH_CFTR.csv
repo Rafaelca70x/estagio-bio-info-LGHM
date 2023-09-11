@@ -1,0 +1,137 @@
+,polyphen_imp,sift_impact,vep_impact,consequence_type,gene_symbol,genomic_dna_change
+solid tissue normal,,,HIGH,frameshift_variant,CFTR,chr7:g.117480138delT
+solid tissue normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117480138delT
+solid tissue normal,,,MODIFIER,non_coding_transcript_exon_variant,CFTR,chr7:g.117480138delT
+solid tissue normal,,,HIGH,frameshift_variant,CFTR,chr7:g.117664711delAC
+solid tissue normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117664711delAC
+solid tissue normal,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117530951A>G
+solid tissue normal,probably_damaging,deleterious_low_confidence,MODERATE,missense_variant,CFTR,chr7:g.117530951A>G
+solid tissue normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117530951A>G
+solid tissue normal,,,LOW,synonymous_variant,CFTR,chr7:g.117592426C>T
+solid tissue normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592426C>T
+solid tissue normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592426C>T
+solid tissue normal,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592426C>T
+solid tissue normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117592426C>T
+blood derived normal,,,LOW,synonymous_variant,CFTR,chr7:g.117627599C>T
+blood derived normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117627599C>T
+blood derived normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117592292C>T
+blood derived normal,,,HIGH,stop_gained,CFTR,chr7:g.117592292C>T
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592292C>T
+blood derived normal,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592292C>T
+blood derived normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592292C>T
+blood derived normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117595017A>C
+blood derived normal,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117595017A>C
+blood derived normal,benign,tolerated,MODERATE,missense_variant,CFTR,chr7:g.117595017A>C
+blood derived normal,probably_damaging,deleterious_low_confidence,MODERATE,missense_variant,CFTR,chr7:g.117530900A>T
+blood derived normal,,,LOW,splice_region_variant,CFTR,chr7:g.117530900A>T
+blood derived normal,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117530900A>T
+blood derived normal,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592213delA
+blood derived normal,,,HIGH,frameshift_variant,CFTR,chr7:g.117592213delA
+blood derived normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592213delA
+blood derived normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117592213delA
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592213delA
+blood derived normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117606740T>C
+blood derived normal,probably_damaging,tolerated,MODERATE,missense_variant,CFTR,chr7:g.117606740T>C
+blood derived normal,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117606740T>C
+blood derived normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117591967G>A
+blood derived normal,,,LOW,synonymous_variant,CFTR,chr7:g.117591967G>A
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117591967G>A
+blood derived normal,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117591967G>A
+blood derived normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117591967G>A
+blood derived normal,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117611638G>A
+blood derived normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117594936delT
+blood derived normal,,,HIGH,frameshift_variant,CFTR,chr7:g.117594936delT
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117594936delT
+blood derived normal,,,HIGH,frameshift_variant,CFTR,chr7:g.117592251delA
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592251delA
+blood derived normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117592251delA
+blood derived normal,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592251delA
+blood derived normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592251delA
+blood derived normal,,,HIGH,frameshift_variant,CFTR,chr7:g.117652852delT
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117652852delT
+blood derived normal,,,LOW,synonymous_variant,CFTR,chr7:g.117642527C>T
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117642527C>T
+blood derived normal,,,HIGH,frameshift_variant,CFTR,chr7:g.117536649delA
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117536649delA
+blood derived normal,,,HIGH,frameshift_variant,CFTR,chr7:g.117592250_117592251insA
+blood derived normal,,,MODIFIER,intron_variant,CFTR,chr7:g.117592250_117592251insA
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592250_117592251insA
+blood derived normal,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592250_117592251insA
+blood derived normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592250_117592251insA
+blood derived normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117606720C>T
+blood derived normal,,,LOW,synonymous_variant,CFTR,chr7:g.117606720C>T
+blood derived normal,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117559549A>C
+blood derived normal,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117559549A>C
+blood derived normal,benign,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117559549A>C
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117559549A>C
+blood derived normal,probably_damaging,tolerated,MODERATE,missense_variant,CFTR,chr7:g.117540321C>G
+blood derived normal,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117540321C>G
+blood derived normal,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117540321C>G
+primary tumor,,,LOW,synonymous_variant,CFTR,chr7:g.117627599C>T
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117627599C>T
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117592292C>T
+primary tumor,,,HIGH,stop_gained,CFTR,chr7:g.117592292C>T
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592292C>T
+primary tumor,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592292C>T
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592292C>T
+primary tumor,,,HIGH,frameshift_variant,CFTR,chr7:g.117480138delT
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117480138delT
+primary tumor,,,MODIFIER,non_coding_transcript_exon_variant,CFTR,chr7:g.117480138delT
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117595017A>C
+primary tumor,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117595017A>C
+primary tumor,benign,tolerated,MODERATE,missense_variant,CFTR,chr7:g.117595017A>C
+primary tumor,probably_damaging,deleterious_low_confidence,MODERATE,missense_variant,CFTR,chr7:g.117530900A>T
+primary tumor,,,LOW,splice_region_variant,CFTR,chr7:g.117530900A>T
+primary tumor,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117530900A>T
+primary tumor,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592213delA
+primary tumor,,,HIGH,frameshift_variant,CFTR,chr7:g.117592213delA
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592213delA
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117592213delA
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592213delA
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117606740T>C
+primary tumor,probably_damaging,tolerated,MODERATE,missense_variant,CFTR,chr7:g.117606740T>C
+primary tumor,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117606740T>C
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117591967G>A
+primary tumor,,,LOW,synonymous_variant,CFTR,chr7:g.117591967G>A
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117591967G>A
+primary tumor,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117591967G>A
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117591967G>A
+primary tumor,,,HIGH,frameshift_variant,CFTR,chr7:g.117664711delAC
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117664711delAC
+primary tumor,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117611638G>A
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117594936delT
+primary tumor,,,HIGH,frameshift_variant,CFTR,chr7:g.117594936delT
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117594936delT
+primary tumor,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117530951A>G
+primary tumor,probably_damaging,deleterious_low_confidence,MODERATE,missense_variant,CFTR,chr7:g.117530951A>G
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117530951A>G
+primary tumor,,,HIGH,frameshift_variant,CFTR,chr7:g.117592251delA
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592251delA
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117592251delA
+primary tumor,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592251delA
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592251delA
+primary tumor,,,HIGH,frameshift_variant,CFTR,chr7:g.117652852delT
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117652852delT
+primary tumor,,,LOW,synonymous_variant,CFTR,chr7:g.117642527C>T
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117642527C>T
+primary tumor,,,HIGH,frameshift_variant,CFTR,chr7:g.117536649delA
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117536649delA
+primary tumor,,,HIGH,frameshift_variant,CFTR,chr7:g.117592250_117592251insA
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117592250_117592251insA
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592250_117592251insA
+primary tumor,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592250_117592251insA
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592250_117592251insA
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117606720C>T
+primary tumor,,,LOW,synonymous_variant,CFTR,chr7:g.117606720C>T
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117559549A>C
+primary tumor,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117559549A>C
+primary tumor,benign,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117559549A>C
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117559549A>C
+primary tumor,probably_damaging,tolerated,MODERATE,missense_variant,CFTR,chr7:g.117540321C>G
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117540321C>G
+primary tumor,probably_damaging,deleterious,MODERATE,missense_variant,CFTR,chr7:g.117540321C>G
+primary tumor,,,LOW,synonymous_variant,CFTR,chr7:g.117592426C>T
+primary tumor,,,MODIFIER,upstream_gene_variant,CFTR,chr7:g.117592426C>T
+primary tumor,,,MODIFIER,3_prime_UTR_variant,CFTR,chr7:g.117592426C>T
+primary tumor,,,MODIFIER,downstream_gene_variant,CFTR,chr7:g.117592426C>T
+primary tumor,,,MODIFIER,intron_variant,CFTR,chr7:g.117592426C>T
